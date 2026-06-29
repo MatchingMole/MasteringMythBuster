@@ -51,13 +51,13 @@ ffprobe -version
 このリポジトリをダウンロードまたはクローンし、スクリプトのある場所で実行します。
 
 ```console
-python LUFS_gui_10.0.0.py
+python LUFS_gui_1.0.py
 ```
 
 Windowsで `python` が見つからない場合は、こちらでも起動できます。
 
 ```console
-py LUFS_gui_10.0.0.py
+py LUFS_gui_1.0.py
 ```
 
 外部Pythonパッケージは使っていないため、`pip install` 大会は開催されません。
