@@ -51,13 +51,13 @@ If they both answer, you are ready. If only one answers, the duo is experiencing
 Download or clone this repository, then run the script from its directory:
 
 ```console
-python LUFS_gui_10.0.0.py
+python LUFS_gui_1.0.py
 ```
 
 On Windows, if `python` is not recognized, try:
 
 ```console
-py LUFS_gui_10.0.0.py
+py LUFS_gui_1.0.py
 ```
 
 The app uses only Python's standard library, so there will be no surprise `pip install` tournament.
