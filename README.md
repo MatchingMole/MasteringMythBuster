@@ -1,3 +1,4 @@
+[🇯🇵 日本語](README.md) | [🇺🇸 English](README_EN.md)
 # 🎚️ LUFS Inspector
 
 > 音圧戦争の戦況を、ボタンひとつで偵察するデスクトップアプリ。
